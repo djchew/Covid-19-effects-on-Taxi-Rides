@@ -1,8 +1,3 @@
-# MAST30034 Project 1 - Quantitative Analysis
-- Student Name: Darrell Chew
-- Student ID: 1081440
-- Due Date: Monday 16th of August 11:59:00 am (AEST).
-
 
 # Dependencies
 - Language: _i.e Python 3.8.3 and/or R 4.05_
