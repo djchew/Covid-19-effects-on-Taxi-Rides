@@ -1,0 +1,16 @@
+
+raw_data/august_taxi.csv
+raw_data/december_taxi.csv
+raw_data/april_taxi.csv
+raw_data/march_taxi.csv
+raw_data/july_taxi.csv
+raw_data/may_taxi.csv
+raw_data/june_taxi.csv
+raw_data/october_taxi.csv
+raw_data/september_taxi.csv
+raw_data/november_taxi.csv
+preprocessed_data/april_distance.csv
+preprocessed_data/august_preprocess.csv
+preprocessed_data/december_distance.csv
+preprocessed_data/december_preprocess.csv
+*.csv
